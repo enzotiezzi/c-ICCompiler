@@ -1,0 +1,11 @@
+E:\IC3\Interpretador\Interpretador\bin\Debug\Interpretador.exe.config
+F:\IC3\Interpretador\Interpretador\bin\Debug\Interpretador.exe.config
+C:\Users\enzo\Documents\IC3\IC3\Interpretador\Interpretador\bin\Debug\Interpretador.exe.config
+C:\Users\enzo\Documents\IC3\IC3\Interpretador\Interpretador\bin\Debug\Interpretador.exe
+C:\Users\enzo\Documents\IC3\IC3\Interpretador\Interpretador\bin\Debug\Interpretador.pdb
+C:\Users\enzo\Documents\IC3\IC3\Interpretador\Interpretador\obj\Debug\Interpretador.csprojResolveAssemblyReference.cache
+C:\Users\enzo\Documents\IC3\IC3\Interpretador\Interpretador\obj\Debug\Interpretador.FormMain.resources
+C:\Users\enzo\Documents\IC3\IC3\Interpretador\Interpretador\obj\Debug\Interpretador.Properties.Resources.resources
+C:\Users\enzo\Documents\IC3\IC3\Interpretador\Interpretador\obj\Debug\Interpretador.csproj.GenerateResource.Cache
+C:\Users\enzo\Documents\IC3\IC3\Interpretador\Interpretador\obj\Debug\Interpretador.exe
+C:\Users\enzo\Documents\IC3\IC3\Interpretador\Interpretador\obj\Debug\Interpretador.pdb
